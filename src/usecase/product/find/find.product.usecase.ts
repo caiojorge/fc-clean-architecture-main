@@ -1,4 +1,4 @@
-import ProductRepositoryInterface from "../../domain/product/repository/product-repository.interface";
+import ProductRepositoryInterface from "../../../domain/product/repository/product-repository.interface";
 import {
   InputFindProductDto,
   OutputFindProductDto,

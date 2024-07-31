@@ -1,10 +1,10 @@
-import ProductRepositoryInterface from "../../domain/product/repository/product-repository.interface";
+import ProductRepositoryInterface from "../../../domain/product/repository/product-repository.interface";
 import {
   InputUpdateProductDto,
   OutputUpdateProductDto,
 } from "./update.product.dto";
-import ProductFactory from "../../domain/product/factory/product.factory";
-import Product from "../../domain/product/entity/product";
+import ProductFactory from "../../../domain/product/factory/product.factory";
+import Product from "../../../domain/product/entity/product";
 
 export default class UpdateProductUseCase {
 

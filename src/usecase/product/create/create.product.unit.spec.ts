@@ -1,4 +1,4 @@
-import ProductService from "../../domain/product/service/product.service";
+import ProductService from "../../../domain/product/service/product.service";
 import CreateUseCase from "./create.product.usecase";
 
 const input = {

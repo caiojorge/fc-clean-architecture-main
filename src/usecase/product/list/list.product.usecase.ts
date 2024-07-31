@@ -1,5 +1,5 @@
-import Product from "../../../src/domain/product/entity/product";
-import ProductRepositoryInterface from "../../domain/product/repository/product-repository.interface";
+import Product from "../../../../src/domain/product/entity/product";
+import ProductRepositoryInterface from "../../../domain/product/repository/product-repository.interface";
 import {
   InputListProductDto,
   OutputListProductDto,
